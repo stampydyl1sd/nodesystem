@@ -44,8 +44,6 @@ This is a NodeSystem made for a Roblox Game in Current Development. It finds poi
 --                              \ ██               █
 --								 \------------------
 
--- If that made any sense, if not then have a look at some already created!
-
 -- Once you've finished with manually placing baby nodes you can move onto adding it into the system!
 
 -- Head over to ReplicatedStorage and click _RoutesModule
